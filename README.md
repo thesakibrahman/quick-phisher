@@ -1,2 +1,2 @@
-# quick-phished
+# quick-phisher
 A Phishing Detection System
